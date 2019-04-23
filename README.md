@@ -1,5 +1,4 @@
-# paper
-Object Tracking
+# Object Tracking
 
 1、 SA-Siam
 论文：http://openaccess.thecvf.com/content_cvpr_2018/papers/He_A_Twofold_Siamese_CVPR_2018_paper.pdf
