@@ -47,6 +47,7 @@
 
 
 
+表情识别
 1、Going Deeper in Facial Expression Recognition using Deep Neural Networks
 https://github.com/achbogga/alinet/tree/10c1118155e99595ee633631036473c90a75d1ed
 
